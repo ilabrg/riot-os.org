@@ -3,13 +3,7 @@
 ### Building
 Make sure you have Jekyll and Bundle installed (see https://jekyllrb.com/docs/).
 
-Then run
-
-```
-bundle
-```
-
-to install all further dependencies.
+Then run `bundle` to install all further dependencies.
 
 Run `bundle exec jekyll build`. This will create a directory `_site`.  To build
 for production environment set the environmental variable
